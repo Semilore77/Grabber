@@ -124,7 +124,7 @@
 	font-family: Manrope;
 	color: #01091b;
 	align-items: flex-start;
-	background: #fff;
+	background: #4b0082;
 	border-radius: 24px;
 	opacity: 0;
 	visibility: hidden;
@@ -234,7 +234,7 @@ span.modal-el-desc-second-v1{
 	outline: 0;
 	cursor: pointer;
 	border: 0;
-	color: #fff;
+	color: #4b0082;
 	font-size: 16px;
 	font-weight: 500
 }
@@ -296,7 +296,7 @@ span.modal-el-desc-second-v1{
 }
 #modal-v1 {
 	color: #01091b;
-	background: #fff
+	background: #4b0082
 }
 .menu-el-v1 {
 	border: 1px solid #a3d9f0
