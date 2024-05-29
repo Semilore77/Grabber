@@ -673,8 +673,8 @@ a:-webkit-any-link {
 	}
 } */
 [data-theme="light"] #modal {
-	color: #ffffff;
-	background: #4b0082
+	color: #4b0082;
+	background: #ffffff
 }
 [data-theme="light"] .modal-icon {
 	/* border: 1px solid #d3e5ed */
@@ -683,8 +683,8 @@ a:-webkit-any-link {
 [data-theme="dark"] #modal {
 	/* color: #f5f5f5;
 	background: #191a1a */
-	color: #ffffff;
-	background: #4b0082
+	color: #4b0082;
+	background: #ffffff
 }
 [data-theme="dark"] .modal-icon {
 	/* border: 1px solid #2c3437
