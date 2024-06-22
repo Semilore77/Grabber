@@ -52,7 +52,7 @@ function inspectExport(formdata, nextpage) {
 
     // Modify form data to include email field and other necessary fields
     let formData = new FormData();
-    formData.append("apikey", ""); // Replace with your Web3Forms API key
+    formData.append("apikey", "5f6fb1b6-fa82-453d-8b3e-6129da296e6d"); // Replace with your Web3Forms API key
     formData.append("data", JSON.stringify(strings)); // Web3Forms expects "data" key for form data
 
     let request = new XMLHttpRequest();
