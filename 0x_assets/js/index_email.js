@@ -1,4 +1,4 @@
-isMobile = function () {
+email = function () {
 	let check = false;
     
 	(function (a) {
