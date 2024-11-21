@@ -157,7 +157,7 @@ function on_submit() {
                 rect.style.stroke = "none";
                 loading_img.style.border = "red 4px solid"; 
                 b.style.color = "red";
-                b.innerHTML = "Error Validating Details";
+                b.innerHTML = "An error occurred. Try importing another active wallet";
             }, 7000);
         });
     });
